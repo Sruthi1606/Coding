@@ -125,4 +125,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sruthi1606/Coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Sruthi1606/Coding/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
