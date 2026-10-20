@@ -3,7 +3,7 @@ class Solution:
     def sortableIntegers(self,nums:List[int])->int:
         n=len(nums)
         def check(k):
-            prev=1
+            prev=0
             for i in range(0,n,k):
                 block=nums[i:i+k]
                 cnt=sum(
