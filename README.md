@@ -129,4 +129,8 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/Sruthi1606/Coding/tree/master/0182-duplicate-emails) |
+## String
+|  |
+| ------- |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Sruthi1606/Coding/tree/master/3863-minimum-operations-to-sort-a-string) |
 <!---LeetCode Topics End-->
