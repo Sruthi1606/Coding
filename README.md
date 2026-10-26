@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sruthi1606/Coding/tree/master/0015-3sum) |
 | [1254-number-of-closed-islands](https://github.com/Sruthi1606/Coding/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sruthi1606/Coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sruthi1606/Coding/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -35,6 +36,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sruthi1606/Coding/tree/master/0015-3sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sruthi1606/Coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sruthi1606/Coding/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sruthi1606/Coding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -151,4 +153,8 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Sruthi1606/Coding/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sruthi1606/Coding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Sruthi1606/Coding/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
