@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sruthi1606/Coding/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Sruthi1606/Coding/tree/master/0169-majority-element) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sruthi1606/Coding/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/Sruthi1606/Coding/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sruthi1606/Coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sruthi1606/Coding/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Sruthi1606/Coding/tree/master/0169-majority-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sruthi1606/Coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sruthi1606/Coding/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sruthi1606/Coding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -59,6 +61,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sruthi1606/Coding/tree/master/0169-majority-element) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sruthi1606/Coding/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sruthi1606/Coding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Sruthi1606/Coding/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -124,6 +127,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sruthi1606/Coding/tree/master/0169-majority-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sruthi1606/Coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Sruthi1606/Coding/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
@@ -184,4 +188,12 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sruthi1606/Coding/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sruthi1606/Coding/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sruthi1606/Coding/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
