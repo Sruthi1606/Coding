@@ -29,6 +29,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Sruthi1606/Coding/tree/master/0069-sqrtx) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sruthi1606/Coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sruthi1606/Coding/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
@@ -76,6 +77,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Sruthi1606/Coding/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sruthi1606/Coding/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sruthi1606/Coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Sruthi1606/Coding/tree/master/2409-count-days-spent-together) |
@@ -196,4 +198,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sruthi1606/Coding/tree/master/0169-majority-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Sruthi1606/Coding/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
