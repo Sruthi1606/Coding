@@ -10,7 +10,7 @@ public:
             mid=start+(end-start)/2;
             if(((long long)mid*mid)>x)
                 end=mid-1;
-            else if(mid+mid==x)
+            else if(mid*mid==x)
                 return mid;
             else
                 start=mid+1;
