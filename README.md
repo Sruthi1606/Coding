@@ -11,6 +11,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sruthi1606/Coding/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sruthi1606/Coding/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/Sruthi1606/Coding/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sruthi1606/Coding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sruthi1606/Coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sruthi1606/Coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sruthi1606/Coding/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Sruthi1606/Coding/tree/master/0069-sqrtx) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sruthi1606/Coding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sruthi1606/Coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sruthi1606/Coding/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
@@ -48,6 +50,7 @@
 | [0015-3sum](https://github.com/Sruthi1606/Coding/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Sruthi1606/Coding/tree/master/0169-majority-element) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sruthi1606/Coding/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sruthi1606/Coding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sruthi1606/Coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sruthi1606/Coding/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Sruthi1606/Coding/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -192,6 +195,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sruthi1606/Coding/tree/master/0015-3sum) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sruthi1606/Coding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Graph Theory
 |  |
 | ------- |
