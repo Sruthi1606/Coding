@@ -18,6 +18,7 @@
 | [1882-process-tasks-using-servers](https://github.com/Sruthi1606/Coding/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sruthi1606/Coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sruthi1606/Coding/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2352-equal-row-and-column-pairs](https://github.com/Sruthi1606/Coding/tree/master/2352-equal-row-and-column-pairs) |
 | [2747-count-zero-request-servers](https://github.com/Sruthi1606/Coding/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sruthi1606/Coding/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sruthi1606/Coding/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -77,6 +78,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sruthi1606/Coding/tree/master/0169-majority-element) |
+| [2352-equal-row-and-column-pairs](https://github.com/Sruthi1606/Coding/tree/master/2352-equal-row-and-column-pairs) |
 | [2747-count-zero-request-servers](https://github.com/Sruthi1606/Coding/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sruthi1606/Coding/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sruthi1606/Coding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -200,6 +202,7 @@
 | [1254-number-of-closed-islands](https://github.com/Sruthi1606/Coding/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Sruthi1606/Coding/tree/master/1267-count-servers-that-communicate) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sruthi1606/Coding/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/Sruthi1606/Coding/tree/master/2352-equal-row-and-column-pairs) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sruthi1606/Coding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Sruthi1606/Coding/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sruthi1606/Coding/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -234,4 +237,8 @@
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Sruthi1606/Coding/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sruthi1606/Coding/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Sruthi1606/Coding/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
