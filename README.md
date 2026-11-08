@@ -14,6 +14,7 @@
 | [1267-count-servers-that-communicate](https://github.com/Sruthi1606/Coding/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sruthi1606/Coding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Sruthi1606/Coding/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Sruthi1606/Coding/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1882-process-tasks-using-servers](https://github.com/Sruthi1606/Coding/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sruthi1606/Coding/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sruthi1606/Coding/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -198,6 +199,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Sruthi1606/Coding/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Sruthi1606/Coding/tree/master/1267-count-servers-that-communicate) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Sruthi1606/Coding/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sruthi1606/Coding/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Sruthi1606/Coding/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Sruthi1606/Coding/tree/master/3882-minimum-xor-path-in-a-grid) |
