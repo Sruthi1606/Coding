@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sruthi1606/Coding/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/Sruthi1606/Coding/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/Sruthi1606/Coding/tree/master/0169-majority-element) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Sruthi1606/Coding/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sruthi1606/Coding/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -40,6 +41,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sruthi1606/Coding/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sruthi1606/Coding/tree/master/0069-sqrtx) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sruthi1606/Coding/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sruthi1606/Coding/tree/master/2089-find-target-indices-after-sorting-array) |
